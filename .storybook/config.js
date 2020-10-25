@@ -83,6 +83,7 @@ const loaderFn = () => {
     require('../src/ui/modules/Previews/a.stories.mdx'),
     require('../src/ui/modules/Sidebar/a.stories.mdx'),
     require('../src/ui/modules/SocialText/a.stories.mdx'),
+    require('../src/ui/modules/EconomicResourcePanel/a.stories.mdx'),
 
   ]
   // allExports.push(Intro.map(a => a))

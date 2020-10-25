@@ -1,0 +1,15 @@
+import { Meta, Story, Props, Preview } from '@storybook/addon-docs/blocks';
+import { economicResourceProps } from 'ui/mock/economicResourcePanel';
+import {EconomicResourcePanel} from '.';
+import {Box} from 'rebass';
+
+<Meta title="Modules|EconomicResourcePanel" component={EconomicResourcePanel}/>
+
+# Economic Resource Panel
+Let's define a story for the`EconomicResourcePanel` module
+
+<Preview>
+  <Story name="Economic Resource Panel">
+    <EconomicResourcePanel {...economicResourceProps() } />
+  </Story>
+</Preview>
