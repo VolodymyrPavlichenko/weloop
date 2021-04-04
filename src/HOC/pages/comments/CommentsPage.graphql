@@ -1,0 +1,16 @@
+query commentsPage($limit: Int, $before: [Cursor!], $after: [Cursor!]) {
+  me {
+    user {
+      id
+      comments(limit: $limit, before: $before, after: $after) {
+        totalCount
+        pageInfo {
+          ...FullPageInfo
+        }
+        edges {
+          ...CommentPreview
+        }
+      }
+    }
+  }
+}

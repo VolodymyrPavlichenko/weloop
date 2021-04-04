@@ -10,6 +10,7 @@ import { DiscoverPageRoute } from 'routes/DiscoverPageRoute';
 import { HomePageRoute } from 'routes/HomePageRoute';
 import { LoginPageRoute } from 'routes/LoginPageRoute';
 import { MapsPageRoute } from 'routes/MapsPageRoute';
+import { CommentsPageRoute } from 'routes/CommentsPageRoute';
 import { ResetPasswordPageRoute } from 'routes/ResetPasswordPageRoute';
 import { SearchPageRoute } from 'routes/SearchPageRoute';
 import { SettingsPageRoute } from 'routes/SettingsPageRoute';
@@ -40,6 +41,7 @@ export const Router: React.FC = () => {
       <Route {...LMSMoodleSearchRoute} />
       <Route {...HomePageRoute} />
       <Route {...MapsPageRoute} />
+      <Route {...CommentsPageRoute} />
       <Route component={NotFoundHOC} />
     </Switch>
   );
