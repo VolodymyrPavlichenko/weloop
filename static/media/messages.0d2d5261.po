@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-11-12 16:32+0000\n"
+"POT-Creation-Date: 2021-11-12 20:39+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -98,9 +98,9 @@ msgstr ""
 #: src/ui/modules/ConfirmationPanel/index.tsx:22
 #: src/ui/modules/CreateCollectionPanel/index.tsx:61
 #: src/ui/modules/CreateCommunityPanel/index.tsx:63
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:163
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:192
 #: src/ui/modules/CreateIntentPanel/index.tsx:105
-#: src/ui/modules/CreateResourcePanel/index.tsx:213
+#: src/ui/modules/CreateResourcePanel/index.tsx:237
 #: src/ui/modules/EditCollectionPanel/index.tsx:58
 #: src/ui/modules/EditCommunityPanel/index.tsx:58
 #: src/ui/modules/EditResourcePanel/index.tsx:71
@@ -206,13 +206,13 @@ msgstr ""
 msgid "Create"
 msgstr ""
 
-#: src/ui/modules/EconomicEventManager/index.tsx:177
+#: src/ui/modules/EconomicEventManager/index.tsx:187
 msgid "Create Event"
 msgstr ""
 
 #: src/ui/elements/LocationPanel/index.tsx:25
 #: src/ui/elements/LocationPanel/index.tsx:69
-#: src/ui/modules/CreateResourcePanel/index.tsx:165
+#: src/ui/modules/CreateResourcePanel/index.tsx:189
 msgid "Create Location"
 msgstr ""
 
@@ -241,7 +241,7 @@ msgid "Create an intent"
 msgstr ""
 
 #: src/ui/modules/CreateIntentPanel/index.tsx:82
-#: src/ui/modules/CreateResourcePanel/index.tsx:159
+#: src/ui/modules/CreateResourcePanel/index.tsx:183
 msgid "CustomSelect location"
 msgstr ""
 
@@ -366,8 +366,8 @@ msgstr ""
 msgid "Event Date:"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:149
-#: src/ui/modules/CreateResourcePanel/index.tsx:84
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:178
+#: src/ui/modules/CreateResourcePanel/index.tsx:90
 msgid "Event Note"
 msgstr ""
 
@@ -447,7 +447,7 @@ msgstr ""
 msgid "History"
 msgstr ""
 
-#: src/ui/modules/CreateResourcePanel/index.tsx:162
+#: src/ui/modules/CreateResourcePanel/index.tsx:186
 msgid "If you did not find your locations in the list, you can create it"
 msgstr ""
 
@@ -515,7 +515,7 @@ msgstr ""
 msgid "Location name"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:56
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:71
 #: src/ui/pages/resource/index.tsx:78
 msgid "Location:"
 msgstr ""
@@ -605,7 +605,7 @@ msgid "Name"
 msgstr ""
 
 #: src/ui/modules/CreateIntentPanel/index.tsx:38
-#: src/ui/modules/CreateResourcePanel/index.tsx:76
+#: src/ui/modules/CreateResourcePanel/index.tsx:82
 msgid "Name of your resource"
 msgstr ""
 
@@ -624,23 +624,23 @@ msgid "Not provided"
 msgstr ""
 
 #: src/ui/elements/LocationPanel/index.tsx:64
-#: src/ui/modules/EconomicEventManager/index.tsx:168
+#: src/ui/modules/EconomicEventManager/index.tsx:178
 #: src/ui/modules/UpdateResourcePanel/index.tsx:39
 #: src/ui/modules/UpdateResourcePanel/index.tsx:40
 msgid "Note"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:64
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:79
 #: src/ui/pages/inventory/index.tsx:64
 #: src/ui/pages/resource/index.tsx:67
 msgid "Note:"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:124
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:153
 #: src/ui/modules/CreateIntentPanel/index.tsx:66
 #: src/ui/modules/CreateIntentPanel/index.tsx:67
-#: src/ui/modules/CreateResourcePanel/index.tsx:189
-#: src/ui/modules/EconomicEventManager/index.tsx:159
+#: src/ui/modules/CreateResourcePanel/index.tsx:213
+#: src/ui/modules/EconomicEventManager/index.tsx:169
 msgid "Numerical Value"
 msgstr ""
 
@@ -728,9 +728,9 @@ msgstr ""
 msgid "Primary Accountable:"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:90
-#: src/ui/modules/CreateResourcePanel/index.tsx:102
-#: src/ui/modules/EconomicEventManager/index.tsx:123
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:105
+#: src/ui/modules/CreateResourcePanel/index.tsx:108
+#: src/ui/modules/EconomicEventManager/index.tsx:125
 msgid "Provider"
 msgstr ""
 
@@ -748,9 +748,9 @@ msgstr ""
 msgid "Publish"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:102
-#: src/ui/modules/CreateResourcePanel/index.tsx:114
-#: src/ui/modules/EconomicEventManager/index.tsx:135
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:124
+#: src/ui/modules/CreateResourcePanel/index.tsx:129
+#: src/ui/modules/EconomicEventManager/index.tsx:141
 msgid "Receiver"
 msgstr ""
 
@@ -795,13 +795,13 @@ msgstr ""
 
 #: src/ui/modules/AddResource/UploadResource.tsx:38
 #: src/ui/modules/CreateIntentPanel/index.tsx:37
-#: src/ui/modules/CreateResourcePanel/index.tsx:75
+#: src/ui/modules/CreateResourcePanel/index.tsx:81
 #: src/ui/modules/Previews/ProposedIntent.tsx:13
 #: src/ui/modules/Previews/Resource.tsx:23
 msgid "Resource"
 msgstr ""
 
-#: src/ui/modules/CreateResourcePanel/index.tsx:199
+#: src/ui/modules/CreateResourcePanel/index.tsx:223
 msgid "Resource note"
 msgstr ""
 
@@ -816,9 +816,9 @@ msgstr ""
 
 #: src/ui/modules/CreateCollectionPanel/index.tsx:58
 #: src/ui/modules/CreateCommunityPanel/index.tsx:60
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:160
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:189
 #: src/ui/modules/CreateIntentPanel/index.tsx:102
-#: src/ui/modules/CreateResourcePanel/index.tsx:210
+#: src/ui/modules/CreateResourcePanel/index.tsx:234
 #: src/ui/modules/EditCollectionPanel/index.tsx:55
 #: src/ui/modules/EditCommunityPanel/index.tsx:55
 #: src/ui/pages/settings/index.tsx:93
@@ -834,9 +834,9 @@ msgstr ""
 msgid "Search query"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:79
-#: src/ui/modules/CreateResourcePanel/index.tsx:132
-#: src/ui/modules/EconomicEventManager/index.tsx:111
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:94
+#: src/ui/modules/CreateResourcePanel/index.tsx:156
+#: src/ui/modules/EconomicEventManager/index.tsx:113
 msgid "Select action"
 msgstr ""
 
@@ -1002,8 +1002,8 @@ msgstr ""
 msgid "Unfollow"
 msgstr ""
 
-#: src/ui/modules/CreateResourcePanel/index.tsx:180
-#: src/ui/modules/EconomicEventManager/index.tsx:150
+#: src/ui/modules/CreateResourcePanel/index.tsx:204
+#: src/ui/modules/EconomicEventManager/index.tsx:160
 msgid "Unit"
 msgstr ""
 
@@ -1139,9 +1139,9 @@ msgstr ""
 
 #: src/HOC/modules/EconomicEventOnResourcePanel/CreateEconomicEventOnResourcePanelHOC.tsx:185
 #: src/ui/elements/LocationPanel/index.tsx:25
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:50
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:58
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:66
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:65
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:73
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:81
 #: src/ui/modules/Resource/PrimaryAccountablePerson/index.tsx:17
 #: src/ui/pages/allCommunities/index.tsx:45
 #: src/ui/pages/allCommunities/index.tsx:51
@@ -1157,8 +1157,8 @@ msgstr ""
 msgid "{action}"
 msgstr ""
 
-#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:31
-#: src/ui/modules/CreateResourcePanel/index.tsx:61
+#: src/ui/modules/CreateEventOnResourcePanel/index.tsx:46
+#: src/ui/modules/CreateResourcePanel/index.tsx:67
 #: src/ui/modules/UpdateResourcePanel/index.tsx:19
 msgid "{title}"
 msgstr ""
