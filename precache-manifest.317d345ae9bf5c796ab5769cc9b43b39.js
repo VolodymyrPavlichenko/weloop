@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/collectionPlaceholder.43589a77.png"
   },
   {
-    "revision": "0d2d526191f29928fd935adf4c3989fd",
-    "url": "/static/media/messages.0d2d5261.po"
+    "revision": "4309487ba725908b9a8ab8c4018fe659",
+    "url": "/static/media/messages.4309487b.po"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
